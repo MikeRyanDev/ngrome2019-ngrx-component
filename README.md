@@ -1,7 +1,7 @@
-# Rethinking Reactivity with Ivy
+# NgRx Component
 
-## AngularConnect 2019
+## ngRome 2019
 
-Link to the talk: https://youtu.be/rz-rcaGXhGk
+Get involved with [@ngrx/component](https://github.com/ngrx/platform/issues/2052)
 
 Follow me on Twitter [@MikeRyanDev](https://twitter.com/mikeryandev)
